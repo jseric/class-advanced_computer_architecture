@@ -1,0 +1,12 @@
+You have implemented a new encryption algorithm.
+In that algorithm, the key is calculated as X^P,
+where:
+    - X and P are natural numbers
+    - P >= 1
+
+For given 2 numbers, MIN and MAX,
+calculate how many different keys you can
+create in the range [MIN, MAX].
+
+Constraints: 1 <= MIN <= MAX <= 10^18
+ 
