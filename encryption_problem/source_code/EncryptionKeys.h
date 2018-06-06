@@ -453,7 +453,7 @@ public:
 
     /*
      * Initialize the calculation of the keys
-     * Type: parallel, using pthreads
+     * Type: parallel, using CUDA
      */
     uint64_t InitCUDA(void)
     {
